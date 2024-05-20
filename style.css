@@ -1,0 +1,30 @@
+body {
+     background-color: rgb(247, 245, 251);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(81, 13, 10);
+}
+
+p {
+    font-size: 20px;
+    color: rgb(12, 12, 12);
+}
+
+h2 {
+    color: rgb(81, 13, 10);
+    font-size: 35px;
+}
+
+li {
+    color: rgb(12, 12, 12);
+}
+
+img {
+    float: right;
+    border: 5px solid rgb(81, 13, 10);
+    height: 350px;
+    width: 300px;
+}
+
